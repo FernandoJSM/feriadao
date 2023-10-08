@@ -20,7 +20,7 @@ Feriados cadastrados:
 * 25/12: Natal; e
 * Corpus Christi (calculado conforme o ano)
 
-## Resultados até 2030:
+## Resultados até 2030
 
 ### 2024
 
