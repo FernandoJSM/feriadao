@@ -33,7 +33,7 @@ Feriados cadastrados:
 * 01/05/2025 (Quinta): Dia Mundial do Trabalho
 * 19/06/2025 (Quinta): Corpus Christi
 * 21/04/2025 (Segunda): Tiradentes
-25/12/2025 (Quinta): Natal
+* 25/12/2025 (Quinta): Natal
 
 ### 2026
 
