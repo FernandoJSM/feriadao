@@ -72,5 +72,5 @@ Feriados cadastrados:
 
 ### 2030
 
-15/11/2030 (Sexta): Proclamação da República
-20/06/2030 (Quinta): Corpus Christi
+* 15/11/2030 (Sexta): Proclamação da República
+* 20/06/2030 (Quinta): Corpus Christi
